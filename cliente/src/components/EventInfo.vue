@@ -1,3 +1,6 @@
+
+import EventInfo from "./components/eventInfo.vue";
+
 <template>
 
 <div class="mt-8 p-4 bg-white rounded shadow">
